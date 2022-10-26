@@ -1,1 +1,1 @@
-[【配置文件】Redis - redis.conf - 学习/实践](https://blog.csdn.net/william_n/article/details/127461683)
+[【配置文件】PHP - php.ini & CLI下命令操作 & 动态设置PHP脚本运行配置](https://blog.csdn.net/william_n/article/details/105267292)
